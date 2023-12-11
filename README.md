@@ -18,7 +18,7 @@
 
 - :seedling: Exploring and learning Fronet-End Development, Cloud and Networking.
 - 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.in/naushad-alam-552b9b184)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/naushad-alam-552b9b184)
 - ⏫: Terminal Portfolio Website: (https://naushad-terminal-portfolio-3ltc7bwwf.vercel.app/)
 
 
