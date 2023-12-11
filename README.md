@@ -16,9 +16,10 @@
 
 - :telescope: I’m working as a Software Engineer and contributing cloud on AWS.
 
-- :seedling: Exploring and learning Cloud and Networking.
+- :seedling: Exploring and learning Fronet-End Development, Cloud and Networking.
 - 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/naushad-alam-552b9b184)
+- ⏫: Terminal Portfolio Website: (https://naushad-terminal-portfolio-3ltc7bwwf.vercel.app/)
 
 
 ---
