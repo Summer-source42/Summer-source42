@@ -146,7 +146,7 @@ I love sharing what I learn through hands-on labs and real-world projects. Check
 👉 [See all my posts on Medium](https://medium.com/@iamnaushad)
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+![Learning GIF](https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif?cid=ecf05e47svmygw5tofbyyxriy00ty2ptnh8upiynyvqojpkr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ###
 
