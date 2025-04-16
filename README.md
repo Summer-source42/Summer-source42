@@ -1,15 +1,3 @@
-<!--- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div> --->
 # 👋 Hello, I'm Naushad Alam!
 
 🎓 Master's student in Information Technology | Aspiring Cybersecurity & Cloud Specialist  
@@ -21,30 +9,81 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
 </div>
 
 
 
-## 🧠 Projects & Labs
 
-I believe in learning by doing. Here's what I'm working on:
+## 🧪 Projects & Labs
 
-### 🔧 [Simple REST API Project](#)
-Built a RESTful API using Python & Flask, Dockerized, and deployed with authentication and logging.
+I’m passionate about cybersecurity, systems, and infrastructure — and I strongly believe in learning by doing. Below is a selection of practical labs and projects I’ve been working on to deepen my hands-on experience:
 
-### 🛡️ [Vulnerability Management Lab](#)
-Simulated a vulnerability management process using tools like Nessus/OpenVAS and patched vulnerable VMs.
+### 🔧 Simple REST API (Python · Flask · Docker)
+Developed and deployed a containerized RESTful API with authentication and logging. This project strengthened my understanding of web application structure, API security, and DevOps fundamentals.  
+🔗 [Repository Link](#)
 
-### 🏢 [Active Directory Setup Lab](#)
-Configured a virtual AD environment with user/group policies, and explored basic Windows domain services.
+---
 
-### ☁️ [SIEM with Azure Sentinel](#)
-Implemented Microsoft Sentinel in Azure, used KQL for log queries, created alerts and dashboards.
+### 🛡️ Vulnerability Management Lab (Nessus · OpenVAS · VirtualBox)
+Created a virtualized lab environment to simulate real-world vulnerability assessments. Used tools like Nessus and OpenVAS to identify, analyze, and remediate security flaws in various OS environments.  
+🔗 [Repository Link](#)
+
+---
+
+### 🏢 Active Directory Infrastructure (Windows Server · GPO · Virtual Lab)
+Configured an on-premises Active Directory environment with organizational units, user/group policies, and basic network services. Practiced access control, policy enforcement, and basic threat response in an enterprise-like setup.  
+🔗 [Repository Link](#)
+
+---
+
+### ☁️ SIEM with Azure Sentinel (Microsoft Azure · KQL · Sentinel)
+Implemented Microsoft Sentinel for centralized log management, alerting, and security event correlation. Built interactive dashboards and detection rules using KQL for proactive monitoring and threat hunting.  
+🔗 [Repository Link](#)
+
 
 ---
 
@@ -70,6 +109,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🇩🇪 German: A2 (currently preparing for B1)  
 - 🇬🇧 English: Fluent
+- 🇮🇳 Hindi: Native
 
 ---
 ## 🤝 Let's Connect
@@ -77,7 +117,38 @@ You can click the Preview link to take a look at your changes.
 <!-- 📫 Email: [your.email@example.com]
 💼 LinkedIn: [linkedin.com/in/yourprofile](#)  
 🌐 Portfolio/GitHub Projects: [github.com/yourusername](#) -->
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naushad-alam-552b9b184)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</div>
+
 - ⏫: Terminal Portfolio Website: (https://naushad-terminal-portfolio-3ltc7bwwf.vercel.app/)
+
 ---
-### :writing_hand: Blog Posts :
+
+### 📝 Blog Posts
+
+I love sharing what I learn through hands-on labs and real-world projects. Check out my latest posts on Medium:
+
+- 🔒 [Getting Started with Vulnerability Management Using Nessus](https://medium.com/your-nessus-post)
+- ☁️ [Deploying SIEM with Azure Sentinel – A Beginner’s Guide](https://medium.com/your-azure-sentinel-post)
+- 🛠️ [Building a Simple REST API with Python & Flask](https://medium.com/your-rest-api-post)
+- 🧱 [Setting Up Active Directory in a Virtual Lab Environment](https://medium.com/your-ad-lab-post)
+
+👉 [See all my posts on Medium](https://medium.com/@iamnaushad)
+
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Summer-source42/Summer-source42/output/snake.svg" alt="Snake animation" />
+
+###
