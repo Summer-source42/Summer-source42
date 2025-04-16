@@ -10,12 +10,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div> --->
-# 👋 Hi there, I'm Naushad Alam!
+# 👋 Hello, I'm Naushad Alam!
 
-🎓 Currently pursuing my Master's in Information Technology  
-🔐 Cybersecurity enthusiast | Cloud learner | Hands-on problem solver  
-📍 Based in Germany | Actively seeking Working Student / Internship roles  
-🌱 Currently preparing for CompTIA Security+ and building labs to deepen my skills 
+🎓 Master's student in Information Technology | Aspiring Cybersecurity & Cloud Specialist  
+🔐 Passionate about building secure systems and solving real-world tech challenges  
+📍 Based in Germany | Open to Working Student and Internship opportunities  
+🚀 Currently preparing for CompTIA Security+ and working on hands-on cybersecurity & cloud labs  
 
 ---
 
