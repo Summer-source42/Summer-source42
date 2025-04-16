@@ -89,9 +89,10 @@ Implemented Microsoft Sentinel for centralized log management, alerting, and sec
 
 ## 📜 Certifications
 
-- 🧾 Google Cybersecurity Professional Certificate  
-- 🛡️ TryHackMe SOC Level 1  
-- 🔒 CompTIA Security+ (in progress)  
+- 🧾 [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5RXJWAVZ9QJ3)
+- 🛡️ [TryHackMe SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NNDU0IWYBR.png)
+- 🔒 CompTIA Security+ (in progress)
+- 💻 [TryHackMe PreSecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0CLDYQTSZ7.png)
 
 ---
 <!---
@@ -119,7 +120,9 @@ You can click the Preview link to take a look at your changes.
 🌐 Portfolio/GitHub Projects: [github.com/yourusername](#) -->
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/iamnaushad/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
   <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
