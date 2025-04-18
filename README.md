@@ -5,6 +5,8 @@
 📍 Based in Germany | Open to Working Student and Internship opportunities  
 🚀 Currently preparing for CompTIA Security+ and working on hands-on cybersecurity & cloud labs  
 
+You can learn more about me and explore my other projects on my 👨‍💻🚀 [Website](https://summer-source42.github.io/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
