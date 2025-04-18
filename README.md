@@ -62,8 +62,9 @@
 
 I’m passionate about cybersecurity, systems, and infrastructure — and I strongly believe in learning by doing. Below is a selection of practical labs and projects I’ve been working on to deepen my hands-on experience:
 
-### 🔧 Simple REST API (Python · Flask · Docker)
-Developed and deployed a containerized RESTful API with authentication and logging. This project strengthened my understanding of web application structure, API security, and DevOps fundamentals.  
+### 🔧 Azure Honeypot Attack Map (Azure · Sentinel · KQL)
+
+Developed and deployed a security project utilizing Azure Sentinel and a virtual honeypot to track and visualize attack sources. This project enhanced my skills in cloud security, log analysis, and creating interactive attack maps using KQL and Azure Sentinel.  
 🔗 [Repository Link](#)
 
 ---
