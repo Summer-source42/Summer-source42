@@ -71,7 +71,7 @@ Developed and deployed a security project utilizing Azure Sentinel and a virtual
 
 ---
 
-### 🔐 Active Directory Infrastructure Lab (Windows Server · GPO · Splunk · VirtualBox)
+### 🔐 Active Directory Lab (Windows Server · GPO · Splunk · VirtualBox)
 Built a multi-VM virtual lab simulating an enterprise AD environment with domain services, GPO configurations, DHCP, NAT, and automated user provisioning; integrated Splunk for monitoring and analysis.
 🔗 [Repository Link](https://github.com/Summer-source42/active-directory-lab)
 
