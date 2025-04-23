@@ -77,6 +77,10 @@ Built a multi-VM virtual lab simulating an enterprise AD environment with domain
 
 ---
 
+🛡️ File Integrity Monitoring (FIM) on Windows
+A PowerShell-based File Integrity Monitoring solution that tracks file changes in real time. This project detects unauthorized file modifications, creations, or deletions by comparing current file hashes with a pre-generated baseline using SHA-512. Ideal for learning basic incident detection and response in Windows environments.
+🔗 [Repository Link](https://github.com/Summer-source42/File-Integrity-Monitor)
+---
 
 ## 📜 Certifications
 
