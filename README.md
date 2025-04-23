@@ -72,14 +72,15 @@ Developed and deployed a security project utilizing Azure Sentinel and a virtual
 ---
 
 ### 🔐 Active Directory Infrastructure Lab (Windows Server · GPO · Splunk · VirtualBox)
-Built a multi-VM virtual lab simulating an enterprise AD environment with domain services, GPO configurations, DHCP, NAT, and automated user provisioning; integrated Splunk for monitoring and analysis. 
+Built a multi-VM virtual lab simulating an enterprise AD environment with domain services, GPO configurations, DHCP, NAT, and automated user provisioning; integrated Splunk for monitoring and analysis.
 🔗 [Repository Link](https://github.com/Summer-source42/active-directory-lab)
 
 ---
+### 🛡️ File Integrity Monitoring (FIM) on Windows  
 
-🛡️ File Integrity Monitoring (FIM) on Windows
-A PowerShell-based File Integrity Monitoring solution that tracks file changes in real time. This project detects unauthorized file modifications, creations, or deletions by comparing current file hashes with a pre-generated baseline using SHA-512. Ideal for learning basic incident detection and response in Windows environments.
-🔗 [Repository Link](https://github.com/Summer-source42/File-Integrity-Monitor)
+Built a PowerShell-based solution for real-time file integrity monitoring on Windows systems. The tool compares current file hashes with a baseline using the SHA-512 algorithm to detect unauthorized file changes, including creations, modifications, and deletions. This project serves as a practical introduction to basic threat detection and incident response techniques.  
+🔗 [Repository Link](https://github.com/Summer-source42/file-integrity-monitor)
+
 ---
 
 ## 📜 Certifications
