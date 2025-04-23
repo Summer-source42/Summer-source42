@@ -134,10 +134,8 @@ You can click the Preview link to take a look at your changes.
 
 I love sharing what I learn through hands-on labs and real-world projects. Check out my latest posts on Medium:
 
-- 🔒 [Getting Started with Vulnerability Management Using Nessus](https://medium.com/your-nessus-post)
-- ☁️ [Deploying SIEM with Azure Sentinel – A Beginner’s Guide](https://medium.com/your-azure-sentinel-post)
-- 🛠️ [Building a Simple REST API with Python & Flask](https://medium.com/your-rest-api-post)
-- 🧱 [Setting Up Active Directory in a Virtual Lab Environment](https://medium.com/your-ad-lab-post)
+- 🔒 [Azure Honeypot ](https://medium.com/@iamnaushad/azure-sentinel-honeypot-project-a-real-world-cyberattack-simulation-e68ee446e31a)
+- 🧱 [Setting Up Active Directory in a Virtual Lab Environment](https://medium.com/@iamnaushad/building-an-active-directory-infrastructure-lab-a-hands-on-learning-experience-87acdfba927f)
 
 👉 [See all my posts on Medium](https://medium.com/@iamnaushad)
 
