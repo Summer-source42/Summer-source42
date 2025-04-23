@@ -79,7 +79,7 @@ Created a virtualized lab environment to simulate real-world vulnerability asses
 
 ### 🏢 Active Directory Infrastructure (Windows Server · GPO · Virtual Lab)
 Configured an on-premises Active Directory environment with organizational units, user/group policies, and basic network services. Practiced access control, policy enforcement, and basic threat response in an enterprise-like setup.  
-🔗 [Repository Link](#)
+🔗 [Repository Link]([#](https://github.com/Summer-source42/active-directory-lab))
 
 ---
 
