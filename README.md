@@ -71,24 +71,12 @@ Developed and deployed a security project utilizing Azure Sentinel and a virtual
 
 ---
 
-### 🛡️ Vulnerability Management Lab (Nessus · OpenVAS · VirtualBox)
-Created a virtualized lab environment to simulate real-world vulnerability assessments. Used tools like Nessus and OpenVAS to identify, analyze, and remediate security flaws in various OS environments.  
-🔗 [Repository Link](#)
-
----
-
-### 🏢 Active Directory Infrastructure (Windows Server · GPO · Virtual Lab)
-Configured an on-premises Active Directory environment with organizational units, user/group policies, and basic network services. Practiced access control, policy enforcement, and basic threat response in an enterprise-like setup.  
+### 🔐 Active Directory Infrastructure Lab (Windows Server · GPO · Splunk · VirtualBox)
+Built a multi-VM virtual lab simulating an enterprise AD environment with domain services, GPO configurations, DHCP, NAT, and automated user provisioning; integrated Splunk for monitoring and analysis. 
 🔗 [Repository Link](https://github.com/Summer-source42/active-directory-lab)
 
 ---
 
-### ☁️ SIEM with Azure Sentinel (Microsoft Azure · KQL · Sentinel)
-Implemented Microsoft Sentinel for centralized log management, alerting, and security event correlation. Built interactive dashboards and detection rules using KQL for proactive monitoring and threat hunting.  
-🔗 [Repository Link](#)
-
-
----
 
 ## 📜 Certifications
 
