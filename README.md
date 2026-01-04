@@ -87,7 +87,7 @@ Built a PowerShell-based solution for real-time file integrity monitoring on Win
 
 - 🧾 [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5RXJWAVZ9QJ3)
 - 🛡️ [TryHackMe SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NNDU0IWYBR.png)
-- 🔒 CompTIA Security+ (in progress)
+- 🔒 CCNA
 - 💻 [TryHackMe PreSecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0CLDYQTSZ7.png)
 
 ---
