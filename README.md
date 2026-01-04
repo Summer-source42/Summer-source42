@@ -104,7 +104,7 @@ You can click the Preview link to take a look at your changes.
 ---
 ## 🌍 Languages
 
-- 🇩🇪 German: A2 (currently preparing for B1)  
+- 🇩🇪 German: B1 (currently preparing for B2)  
 - 🇬🇧 English: Fluent
 - 🇮🇳 Hindi: Native
 
