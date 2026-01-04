@@ -3,7 +3,7 @@
 🎓 Master's student in Information Technology | Aspiring Cybersecurity & Cloud Specialist  
 🔐 Passionate about building secure systems and solving real-world tech challenges  
 📍 Based in Germany | Open to Working Student and Internship opportunities  
-🚀 Currently preparing for CompTIA Security+ and working on hands-on cybersecurity & cloud labs  
+🚀 Currently preparing for CCNA and working on hands-on cybersecurity & cloud labs  
 
 You can learn more about me and explore my other projects on my 👨‍💻🚀 [Website](https://summer-source42.github.io/)
 
