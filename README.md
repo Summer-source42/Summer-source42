@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Naushad Alam!
 
-🎓 Master's student in Information Technology | Aspiring Cybersecurity & Cloud Specialist  
+🎓 Master's student in Information Technology | Aspiring SOC Analyst 
 🔐 Passionate about building secure systems and solving real-world tech challenges  
 📍 Based in Germany | Open to Working Student and Internship opportunities  
-🚀 Currently preparing for CCNA and working on hands-on cybersecurity & cloud labs  
+🚀 Currently working on hands-on SOC Analyst & CCNA labs  
 
 You can learn more about me and explore my other projects on my 👨‍💻🚀 [Website](https://summer-source42.github.io/)
 
@@ -87,7 +87,6 @@ Built a PowerShell-based solution for real-time file integrity monitoring on Win
 
 - 🧾 [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5RXJWAVZ9QJ3)
 - 🛡️ [TryHackMe SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NNDU0IWYBR.png)
-- 🔒 CCNA
 - 💻 [TryHackMe PreSecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0CLDYQTSZ7.png)
 
 ---
