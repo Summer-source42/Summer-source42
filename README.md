@@ -105,7 +105,6 @@ You can click the Preview link to take a look at your changes.
 
 - 🇩🇪 German: B1 (currently preparing for B2)  
 - 🇬🇧 English: Fluent
-- 🇮🇳 Hindi: Native
 
 ---
 ## 🤝 Let's Connect
