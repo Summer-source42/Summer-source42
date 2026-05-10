@@ -85,9 +85,9 @@ Built a PowerShell-based solution for real-time file integrity monitoring on Win
 
 ## 📜 Certifications
 
+- 🛡️ [CCNA](https://www.credly.com/badges/232402c7-a40d-4b8a-a8ec-6df41d06207b/linked_in?t=tdufp8)
 - 🧾 [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5RXJWAVZ9QJ3)
-- 🛡️ [TryHackMe SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NNDU0IWYBR.png)
-- 💻 [TryHackMe PreSecurity](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0CLDYQTSZ7.png)
+- 💻 [TryHackMe SOC Level 1](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-NNDU0IWYBR.png)
 
 ---
 <!---
