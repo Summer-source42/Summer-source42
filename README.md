@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Naushad Alam
  
 🎓 Master's student in Information Technology  
-📍 Based in Germany | Open to Working Student and Internship opportunities  
+📍 Based in Germany | Open to Working Student and Internship opportunities · Full-time after graduation
 🔐 Network Engineer pivoting into Security Operations combining hands-on networking knowledge with blue team skills  
 🚀 Currently working toward Security+ and Blue Team Level 1 certification
  
